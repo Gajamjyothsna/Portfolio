@@ -347,6 +347,7 @@ article .icon{
 #projects
 {
     position: relative;
+    margin-top: 15%;
 }
 .color-container
 {
@@ -373,7 +374,7 @@ article .icon{
 #contact
 {
     position: relative;
-    margin-top: 10%;
+    margin-top: 8%;
     display: flex;
     justify-content: center;
     flex-direction: column;
