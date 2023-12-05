@@ -337,6 +337,12 @@ article{
 article .icon{
     cursor: default;
 }
+.experience-details-container p{
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   padding-bottom: 10%;
+}
 /*Projects Section*/
 #projects
 {
